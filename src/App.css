@@ -1,0 +1,39 @@
+.title {
+  background: var(--gray-700);
+}
+
+.input-search {
+  background: var(--gray-500);
+  outline: 2px solid var(--gray-700);
+  color: var(--gray-300);
+}
+
+.input-search:hover {
+  color: white;
+  outline: 2px solid var(--blue);
+}
+
+button {
+  background: var(--blue);
+}
+
+button:hover {
+  color: white;
+  outline: 2px solid white;
+}
+
+.color-task {
+  color: var(--blue);
+}
+
+.number-task {
+  background: var(--gray-500);
+}
+
+.no-tasks {
+  border-top: 2px solid var(--gray-500);
+}
+
+.task-text {
+  color: var(--gray-300);
+}
